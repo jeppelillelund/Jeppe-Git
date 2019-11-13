@@ -2,6 +2,6 @@ Jeppe Lillelund
 
 - Javascript
 -
-
-- React.js
+#
+- Ember.js
 - Reqres
