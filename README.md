@@ -1,2 +1,7 @@
-- Ember.js
+Jeppe Lillelund
+
+- Javascript
+-
+
+- React.js
 - Reqres
