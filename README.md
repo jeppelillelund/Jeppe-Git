@@ -5,3 +5,4 @@ Jeppe Lillelund
 #
 - Ember.js
 - Reqres
+- Strapi.js
